@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Narsing Gurme  
 
-💻 I’m a **Software Developer** with **1+ year of experience** in **Java Full Stack Development**.  
+💻 I’m a **Software Developer** with **1.5+ year of experience** in **Java Full Stack Development**.  
 🎓 I completed my **B.E. in Information Technology** in 2023.  
 🚀 Passionate about building **scalable web applications**, solving problems, and learning new technologies.  
 
