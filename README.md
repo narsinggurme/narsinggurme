@@ -4,14 +4,14 @@
 🎓 **B.E. in Information Technology (2023)**  
 📍 India  
 
-I'm a passionate **Full Stack Developer** with **1.5+ years of experience** in designing and developing scalable web applications.  
-I love writing clean, efficient code and continuously learning modern tools and frameworks to stay up to date with the latest tech trends.
+I'm a passionate **Full Stack Developer** with **1.5+ years of experience** in building scalable and high-performance web applications.  
+I love writing clean, efficient, and maintainable code — and I’m always exploring new technologies to enhance my development skills.
 
 ---
 
 ## 🔹 About Me
-- 👀 Interested in **Web Development**, **API Design**, and **Cloud Technologies**  
-- 🌱 Currently learning **Microservices**, **Docker**, and **React**  
+- 👀 Interested in **Web Development**, **Backend Architecture**, and **API Design**  
+- 🌱 Currently exploring **Microservices**, **Docker**, and **React**  
 - 💞️ Open to collaborating on **Open Source and Full Stack Projects**  
 - 📫 Reach me at: **[narsinggurme@gmail.com](mailto:narsinggurme@gmail.com)**  
 
@@ -40,7 +40,7 @@ I love writing clean, efficient code and continuously learning modern tools and 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=narsinggurme&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narsinggurme&layout=compact&theme=tokyonight" alt="Top languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narsinggurme&layout=compact&langs_count=6&hide=jupyter%20notebook,python&theme=tokyonight" alt="Top languages" height="160"/>
 </p>
 
 ---
