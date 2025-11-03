@@ -11,7 +11,7 @@ I love writing clean, efficient, and maintainable code — and I’m always expl
 
 ## 🔹 About Me
 - 👀 Interested in **Web Development**, **Backend Architecture**, and **API Design**  
-- 🌱 Currently exploring **Microservices**, **Docker**, and **React**  
+- 🌱 Currently exploring **Microservices**, **Docker**, and **Kubernetes**  
 - 💞️ Open to collaborating on **Open Source and Full Stack Projects**  
 - 📫 Reach me at: **[narsinggurme@gmail.com](mailto:narsinggurme@gmail.com)**  
 
