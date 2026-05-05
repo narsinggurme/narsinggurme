@@ -4,14 +4,13 @@
 🎓 **B.E. in Information Technology (2023)**  
 📍 India  
 
-I'm a passionate **Full Stack Developer** with **1.5+ years of experience** in building scalable and high-performance web applications.  
+I'm a passionate **Full Stack Developer** with **2+ years of experience** in building scalable and high-performance web applications.  
 I love writing clean, efficient, and maintainable code — and I’m always exploring new technologies to enhance my development skills.
 
 ---
 
 ## 🔹 About Me
 - 👀 Interested in **Web Development**, **Backend Architecture**, and **API Design**  
-- 🌱 Currently exploring **Microservices**, **Docker**, and **Kubernetes**  
 - 💞️ Open to collaborating on **Open Source and Full Stack Projects**  
 - 📫 Reach me at: **[narsinggurme@gmail.com](mailto:narsinggurme@gmail.com)**  
 
