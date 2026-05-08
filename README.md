@@ -73,11 +73,17 @@ Enhanced secure REST and SOAP services for compliant cross-border interbank tran
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narsinggurme&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narsinggurme&layout=compact&langs_count=6&hide=jupyter%20notebook,python&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narsinggurme&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=narsinggurme&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/narsinggurme?tab=followers">
+    <img src="https://img.shields.io/github/followers/narsinggurme?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
+  </a>
 </p>
 
 ---
