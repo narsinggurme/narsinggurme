@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a Java Backend Developer with **2+ years of experience** building production-grade banking and fintech applications. I've worked with **HDFC Bank** (Cheque Truncation System) and **Qatar National Bank** (Interbank Transaction System), delivering secure, scalable microservices for tier-1 financial institutions.
+I'm a Java Backend Developer with **2+ years of experience** building production-grade banking and fintech applications. I've worked with **HDFC Bank** (Cheque Truncation System) and **Qatar National Bank(QNB)** (Interbank Transaction System), delivering secure, scalable microservices for tier-1 financial institutions.
 
 - 🏦 Specialized in **Fintech & Core Banking** systems
 - ⚙️ Building with **Spring Boot, Spring Security, Kafka, Oracle**
